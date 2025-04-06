@@ -1,0 +1,7 @@
+default:
+  POSTGRES:
+    dbname: ${DBNAME}
+    user: ${USER}
+    password: ${PASSWORD}
+    host: ${HOST}
+    port: ${PORT}
