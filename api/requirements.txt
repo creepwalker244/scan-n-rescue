@@ -8,3 +8,7 @@ pydantic[email]
 passlib
 python-jose[cryptography]
 dynaconf
+ultralytics==8.0.142
+easyocr
+opencv-python
+numpy
